@@ -1,4 +1,5 @@
 #!/bin/bash
+#AWS EC2 Automation using Shell Scripting
 echo "Learning shell scripting"
 echo "Linux basics"
 echo "WSL setup"
